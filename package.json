@@ -17,14 +17,8 @@
   },
   "homepage": "https://github.com/fullop2/minecraft-bot#readme",
   "dependencies": {
-    "chalk": "^4.1.2",
     "discord.js": "^13.6.0",
-    "figlet": "^1.5.2",
-    "google-spreadsheet": "^3.1.15",
-    "googleapis": "^89.0.0",
-    "goose-db": "0.0.4",
-    "mongoose": "^6.2.3",
-    "node-sql-parser": "^3.9.4"
+    "mongoose": "^6.2.3"
   },
   "type": "module"
 }
